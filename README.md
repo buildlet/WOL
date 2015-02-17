@@ -1,4 +1,4 @@
-# BUILDLet WOL
+# WOL
 
 ###BUILDLet WOL Vrsion 1.0.4###
 
