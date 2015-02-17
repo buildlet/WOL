@@ -1,5 +1,6 @@
 # BUILDLet WOL
-WPF front-end to send magic packet (Wake On LAN)
+
+**BUILDLet WOL Vrsion 1.0.4**
 
 ## 概要
 指定した MAC アドレスにマジックパケットを送信する WPF のフロントエンドです。  
