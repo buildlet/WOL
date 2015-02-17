@@ -5,6 +5,9 @@ WPF front-end to send magic packet (Wake On LAN)
 指定した MAC アドレスにマジックパケットを送信する WPF のフロントエンドです。  
 詳細は、プログラムフォルダーにインストールされる Readme.txt を参照ください。
 
+## インストール方法
+WOLSetup.exe を実行してください。
+
 ## 履歴
 
 ###Version 1.0.3
