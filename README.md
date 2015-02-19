@@ -14,7 +14,7 @@
 
 
 ## インストール方法
-WOLSetup.exe を実行してください。
+[こちら](https://github.com/buildlet/WOL/releases "Releases")から WOLSetup.exe をダウンロードして、実行してください。
 
 
 ## ソースコード
