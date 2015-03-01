@@ -50,4 +50,4 @@ Readme の変更のみ
 
 ## ライセンス
 このソフトウェアは MTI ライセンスの下で配布されます。  
-LICENCE を参照してください。
+[LICENCE](/LICENSE "LICENSE") を参照してください。
