@@ -1,6 +1,6 @@
 # WOL
 
-###BUILDLet WOL Vrsion 1.0.5###
+###BUILDLet WOL Vrsion 1.0.6###
 
 ## 概要
 指定した MAC アドレスにマジックパケットを送信する WPF のフロントエンドです。  
@@ -14,7 +14,12 @@
 
 
 ## インストール方法
+<<<<<<< HEAD
 [こちら](https://github.com/buildlet/WOL/releases "Releases")から WOLSetup.exe をダウンロードして、実行してください。
+=======
+WOLSetup.exe を実行してインストールしてください。  
+または、WOL.zip を解凍してください。 (WOL.exe 単独で実行可能です。)
+>>>>>>> develop
 
 
 ## ソースコード
@@ -22,6 +27,10 @@
 
 
 ## 履歴
+
+###Version 1.0.6
+**March 1, 2015**  
+スタートメニューにショートカットを登録し、デスクトップショートカットを作成しないように変更しました。
 
 ###Version 1.0.5
 **February 24, 2015**  
