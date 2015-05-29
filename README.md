@@ -1,4 +1,4 @@
-# WOL Version 1.0.6
+# WOL Version 1.0.7.0
 
 ## 概要
 指定した MAC アドレスにマジックパケットを送信する WPF のフロントエンドです。  
@@ -21,6 +21,10 @@
 
 
 ## 履歴
+
+###Version 1.0.7.0
+**May 29, 2015**  
+Minor Update
 
 ###Version 1.0.6
 **March 1, 2015**  
