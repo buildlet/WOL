@@ -27,11 +27,11 @@ WOL Version **1.1.0.0**
 
 ###Version 1.1.0.0
 **June 3, 2015**  
-Minor Update
+マイナーアップデート
 
 ###Version 1.0.7.0
 **May 29, 2015**  
-Minor Update
+マイナーアップデート
 
 ###Version 1.0.6
 **March 1, 2015**  
