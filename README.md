@@ -23,6 +23,11 @@ WOL Version **1.1.0.0**
 ソースコードは [buildlet/Utilities](https://github.com/buildlet/Utilities "buildlet/Utilities") からダウンロードしてください。
 
 
+## ライセンス
+このソフトウェアは MTI ライセンスの下で配布されます。  
+[LICENCE](/LICENSE "LICENSE") を参照してください。
+
+
 ## 履歴
 
 ###Version 1.1.0.0
@@ -55,8 +60,3 @@ Readme の変更のみ
 
 ###Version 1.0.0
 1st リリース
-
-
-## ライセンス
-このソフトウェアは MTI ライセンスの下で配布されます。  
-[LICENCE](/LICENSE "LICENSE") を参照してください。
