@@ -19,13 +19,13 @@ WOL Version **1.1.0.0**
 または WOL.zip を解凍してください。 (WOL.exe 単独で実行可能です。)
 
 
-## ソースコード
-ソースコードは [buildlet/Utilities](https://github.com/buildlet/Utilities "buildlet/Utilities") からダウンロードしてください。
-
-
 ## ライセンス
 このソフトウェアは MTI ライセンスの下で配布されます。  
 [LICENCE](/LICENSE "LICENSE") を参照してください。
+
+
+## ソースコード
+ソースコードは [buildlet/Utilities](https://github.com/buildlet/Utilities "buildlet/Utilities") からダウンロードしてください。
 
 
 ## 履歴
