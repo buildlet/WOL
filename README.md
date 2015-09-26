@@ -4,7 +4,7 @@ WOL
 WOL Version **1.1.2.0**
 
 ## 概要
-指定した MAC アドレスにマジックパケットを送信する WPF のフロントエンドです。  
+指定した MAC アドレスのマジックパケットを送信する WPF のフロントエンドです。  
 
 ![Screenshot](/images/WOL.png "Screenshot")
 
