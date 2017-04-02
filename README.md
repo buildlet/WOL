@@ -33,45 +33,45 @@ WOLSetup.exe をダウンロードして実行してください。
 
 履歴
 ----
-###Version 2.1.1.0
+### Version 2.1.1.0
 **April 2, 2017**  
 ベース クラスライブラリを BUILDLet Utilities Library Version 2.1.x ベースにアップデートしました。
 
-###Version 1.1.2.0
+### Version 1.1.2.0
 **July 5, 2015**  
 マイナーアップデート
 
-###Version 1.1.1.0
+### Version 1.1.1.0
 **June 8, 2015**  
 マイナーアップデート
 
-###Version 1.1.0.0
+### Version 1.1.0.0
 **June 3, 2015**  
 マイナーアップデート
 
-###Version 1.0.7.0
+### Version 1.0.7.0
 **May 29, 2015**  
 マイナーアップデート
 
-###Version 1.0.6
+### Version 1.0.6
 **March 1, 2015**  
 スタートメニューにショートカットを登録し、デスクトップショートカットを作成しないように変更しました。
 
-###Version 1.0.5
+### Version 1.0.5
 **February 24, 2015**  
 実行ファイルのファイル名を変更しました。
 
-###Version 1.0.4
+### Version 1.0.4
 設定ファイルの保存場所を変更しました。
 
-###Version 1.0.3
+### Version 1.0.3
 MAC アドレスの入力方法を TextBox から ComboBox に変更しました。
 
-###Version 1.0.2
+### Version 1.0.2
 Readme の変更のみ
 
-###Version 1.0.1
+### Version 1.0.1
 Readme の変更のみ
 
-###Version 1.0.0
+### Version 1.0.0
 1st リリース
