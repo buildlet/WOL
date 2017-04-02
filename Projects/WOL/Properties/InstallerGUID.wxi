@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include>
+
+  <!-- Upgrade Code of WOL -->
+  <?define GUID_WOL_SetupBootstrapper_UpgradeCode="{965E66F5-08CD-4138-AC1B-07BAD82AD75A}"?>
+
+  
+  <!-- WOL Version 2.x.x (Current) -->
+  <?define GUID_WOL_Product="{44119839-21E2-4917-B721-AF491C87DE7E}"?>
+  <?define GUID_WOL_UpgradeCode="{01ED808E-F637-43E1-9505-28D2AE5F6C7A}"?>
+  <?define GUID_WOL_ProductComponent="{F1B145FF-4CA1-4AA7-9B8D-D64A610DD634}"?>
+  <?define GUID_WOL_Documents="{7DE07AEA-0137-4AEC-A633-920826622732}"?>
+  <?define GUID_WOL_ConfigFile="{DF3E73DC-7D48-4812-B20F-5CD0712FC871}"?>
+  <?define GUID_WOL_ProgramMenu="{3210AAF6-0E2D-4CF2-8499-7239703012B7}"?>
+
+  
+  <!-- WOL Version 1.x.x (for Backward Compatibility) -->
+  <?define GUID_WOL_Version1xx_Product="{D56FBBFB-8D89-4233-9763-048BB7FF201D}"?>
+  <?define GUID_WOL_Version1xx_UpgradeCode="{AFCA8C85-7CB9-44F9-9880-0C58F711B09C}"?>
+  <?define GUID_WOL_Version1xx_ProductComponent="{EB131451-2E2A-4209-BD40-C2D02DD40216}"?>  <!-- V1.0.5 Changed -->
+  <?define GUID_WOL_Version1xx_Documents="{3C726715-3878-4664-A02F-959C79F96265}"?>
+  <?define GUID_WOL_Version1xx_ConfigFile="{5B00CD26-AC1D-430A-A5D1-09887191665D}"?>
+  <?define GUID_WOL_Version1xx_ProgramMenu="{168B96DE-720A-4158-AE27-9A44BCFAD354}"?>  <!-- V1.0.6 Add -->
+  <?define GUID_WOL_Version1xx_OldExeFile="{6245EE59-0EFB-41AA-B19A-A61B98BDA287}"?>  <!-- for Backword Compatibility -->
+
+</Include>

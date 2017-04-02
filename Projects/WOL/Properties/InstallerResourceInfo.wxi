@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include>
+
+  <!-- Setup Files (.msi) -->
+  <?define Resource_WOLSetup="..\bin\$(var.Configuration)\WOLSetup.msi"?>
+
+
+  <!-- Logo Image Files -->
+  <?define Resource_LogoFile_WOLSetupBootstrapper="..\Resources\Logo\WOLSetupBootstrapper\BUILDLet.Logo_Yellow-LightBlue_64x64.png"?>
+
+  <!-- Icon Files (from BUILDLet.WOL) -->
+  <?define Resource_IconFile_WOL="..\BUILDLet.WOL\Resources\BUILDLet_WOL.ico"?>
+
+  <!-- License Files -->
+  <?define Resource_LicenseFile_TXT="..\Resources\License\License.txt"?>
+  <?define Resource_LicenseFile_RTF="..\Resources\License\License.rtf"?>
+
+  <!-- Readme Files -->
+  <?define Resource_ReadmeFile_WOL="..\Resources\Readme\WOL\Readme.txt"?>
+
+
+  <!-- Content Files -->
+  <?define Resource_WOL_EXE="..\bin\$(var.Configuration)\WOL.exe"?>
+
+</Include>
