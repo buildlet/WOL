@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include>
+
+  <!-- Product Information (WOL) -->
+  <?define WOL_ProductName="BUILDLet WOL"?>
+  <?define WOL_ProductComment="This is the front end for sending the magic packet (Wake On LAN)"?>
+  <?define WOL_ProductFolderName="WOL"?>  <!-- Version 1.1.0: Changed from "BUILDLet WOL" -->
+  <!-- Not used
+  <?define WOL_NickName="WOL"?>
+  -->
+
+  <!-- Folder Name of "BUILDLet Utilities" -->
+  <?define Utilities_ProductFolderName="BUILDLet Utilities"?>
+
+</Include>
